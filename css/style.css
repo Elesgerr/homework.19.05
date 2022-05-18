@@ -1,0 +1,129 @@
+*{
+    margin: 0 auto;
+    text-align: center;
+}
+
+.btn{
+    border-radius: 0px;
+    line-height: 1.5;
+    font-weight: 400;
+    text-decoration: none;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid transparent;  
+}
+
+
+#first{
+   
+    color: #f8f9fa;
+    background-color: #0D6EFD;
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    opacity: 0.8;
+    
+    background-attachment: fixed;
+    padding-top: 9rem;
+    padding-bottom: 6rem;
+
+}
+#first a{
+background-color: #f8f9fa;
+color: #000;
+padding: 15px 30px;
+font-size: 30;
+border-radius: 0.3rem;
+font-weight: 900;
+text-decoration: none;
+
+}
+#first h1{
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+#first p{
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+#second h2{
+    
+    box-sizing: border-box;
+    font-size: 32px;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+margin: 0px 0px 8px ;
+}
+ul li{
+    font-size: 16px;
+}
+
+#second p{
+    margin-bottom: 1rem;
+    margin-top: 0;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    
+}
+#second{
+    padding-top: 9rem;
+    padding-bottom: 9rem;
+    color: #212529;    
+    box-sizing: border-box;
+}
+#third p{
+    
+    margin-bottom: 1rem;
+    margin-top: 0;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+
+}
+#third h2{
+    box-sizing: border-box;
+    font-size: 2rem;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+margin: 0px 0px 8px ;
+}
+#third{
+    padding-top: 9rem;
+    padding-bottom: 9rem;
+    text-align: center;
+    background-color: #F8F9FA;
+}
+
+#four h2{
+  
+    font-size: 2rem;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    margin: 0px 0px 8px ;
+}
+#four p{
+    
+    margin-bottom: 1rem;
+    margin-top: 0;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+}
+#four{
+    padding-top: 9rem;
+    padding-bottom: 9rem;
+
+}
+
+
+
+
+
